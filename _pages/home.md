@@ -1,7 +1,7 @@
 ---
 title: "Allan Lab - Home"
 layout: homelay
-excerpt: "Bratvold Team at University of Stavanger."
+excerpt: "Allan Lab at Leiden University."
 sitemap: false
 permalink: /
 ---
