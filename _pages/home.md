@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Decision & Data Analytics - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Decision & Data Analytics at University of Stavanger."
 sitemap: false
 permalink: /
 ---
