@@ -64,8 +64,8 @@ We are located at [University of Stavanger](www.uis.no), in addition have a role
 We are grateful for funding from University of Stavanger, [IOR Center](https://www.uis.no/research/national-ior-centre-of-norway/), [Faculty of Science and Technology](https://www.uis.no/faculty-of-science-and-technology/) and our industrial partner [Equinor](https://www.equinor.com/en.html).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_uis.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ior.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_norce.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_indu.jpg" style="width: 110px">
 </figure>
