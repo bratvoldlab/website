@@ -48,7 +48,12 @@ Our ability to deal with uncertainty in a consistent and unbiased manner can be 
 </div>
 
 
+Research topics:
 
++ Decision analysis
++ Developing methods for studying dynamic decision problems and valuing risky investments
++ Improving probabilistic forecasts using geostatistics and data assimilation methods
++ Integration of technical data, information and knowledge with economic data, information and knowledge to provide a holistic evaluation of investment decisions + at the project/asset and portfolio levels.
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
