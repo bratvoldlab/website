@@ -48,16 +48,15 @@ Our ability to deal with uncertainty in a consistent and unbiased manner can be 
 </div>
 
 
-Research topics:
+To this end, the research topics are included:
 
-+ Decision analysis
-+ Developing methods for studying dynamic decision problems and valuing risky investments
-+ Improving probabilistic forecasts using geostatistics and data assimilation methods
-+ Integration of technical data, information and knowledge with economic data, information and knowledge to provide a holistic evaluation of investment decisions + at the project/asset and portfolio levels.
++ **D**ecision analysis
++ **D**eveloping methods for studying dynamic decision problems and valuing risky investments
++ **I**mproving probabilistic forecasts using geostatistics and data assimilation methods
++ **I**ntegration of technical data, information and knowledge with economic data, information and knowledge 
++ **E**conomic Evaluation of investment decisions at the project/asset and portfolio levels.
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at [University of Stavanger](www.uis.no), in addition have a role in developing and expnading the new brand progroram [Computational Engineering](https://www.uis.no/studies/master-s-programmes-in-english/science-and-technology/computational-engineering/) at the Energy Resource Department. We exchange ideas and work with our colleguages from [NORCE Research Center](https://www.norceresearch.no/en/), as well as with the colleagues from [Hildebrand Department of Petroleum and Geosystem](https://www.pge.utexas.edu/) at University of Texas at Austin.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
