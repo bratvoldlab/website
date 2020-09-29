@@ -36,9 +36,6 @@ Our ability to deal with uncertainty in a consistent and unbiased manner can be 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/geosteering.png" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/flow.jpg" alt="Slide 5" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
