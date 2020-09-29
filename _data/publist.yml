@@ -1,9 +1,9 @@
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
+- title: "Value of Information in the Oil and Gas Industry: Past, Present, and Future"
   image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+  description: An important task that petroleum engineers and geoscientists undertake is to produce decision-relevant information. Some of the most important decisions we make concern what type and what quality of information to produce. When decisions are fraught with geologic and market uncertainties, this information gathering may such forms as seismic surveys, core and well test analyses, reservoir simulations, market analyses, and price forecasts--which the industry spends billions of US dollars each year. Yet, considerably less time and resources are expended on assessing the profitability or value of this information. Why is that?.
+  authors: Reidar B Bratvold, J Eric Bickel, Hans Petter Lohn
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
+    url: https://www.onepetro.org/journal-paper/SPE-110378-PA
     display:  PRB 102, 115416
   highlight: 0
   news2:
