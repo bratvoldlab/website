@@ -11,7 +11,7 @@
   
 
 - name: Philip Thomas
-  photo: irene.jpg
+  photo: philip.jpg
   info: PhD student
   duration: Finished PhD Degree in 2017, NOW, Co-Founder at Bonza- <a href="https://www.linkedin.com/in/philipthom/">Learn More</a>
   email: Battisti@Physics.LeidenUniv.nl
@@ -21,7 +21,7 @@
   education3: PhD Leiden University!
 
 - name: Kanokwan Kullawan
-  photo: Doohee2.jpg
+  photo: kanokwan.jpg
   info: PhD Student
   duration: Finished PhD Degree in 2016, NOW, Economic and Decision Analysit at Chevron- <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Learn More</a>
   number_educ: 4
@@ -30,24 +30,13 @@
   education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
+- name: Mohamad Ali Rajaie
+  photo: mohamad.png
+  info: PhD Student
   email: M.Leeuwenhoek@tudelft.nl
-  duration: In the Allan Lab December 2015 to February 2020, now assistant professor at Yonsei University
+  duration: Finished PhD Degree in 2011, NOW, Principal Analyst at Equinor- <a href="https://www.linkedin.com/in/mohamad-ali-rajaie-2b459510a/">Learn More</a>
   number_educ: 1
   education1: Master Leiden University with Milan Allan
   education2:
-  education3:
-  education4:
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  duration: In the Allan Lab 2018 - 2020
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
   education3:
   education4:
