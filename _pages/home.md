@@ -23,9 +23,12 @@ Our ability to deal with uncertainty in a consistent and unbiased manner can be 
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
+       
+       <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/decandvalue.jpg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/frame.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/framework.png" alt="Slide 2" />
