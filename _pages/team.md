@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Decision & Data Analytics - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Decision & Data Analytics: Team members"
 sitemap: false
 permalink: /team/
 ---
