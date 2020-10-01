@@ -21,8 +21,12 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/reidar_award.jpg" width="100%">
 </figure>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/aojie_image.jpg" width="100%">
+</figure>
+
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/.jpg" width="20%" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" /> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" />
 </p>
