@@ -62,7 +62,7 @@ First advertisement.
 ## ETHZ
 From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="60%">
 </figure>
 
 ## Cornell
