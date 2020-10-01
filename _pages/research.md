@@ -13,6 +13,7 @@ permalink: /research/
 
 The project aims to develop the next-generation digital workflows for sub-surface field development and reservoir management to improve decision making and uncertainty analysis for well-planning and field development by using a decision-driven ensemble-based approach. The Decision & Data Analytics group at UiS focus on developing probabilistic decision models that will work well with an ensemble representation of the information, also when using ensembles of reasonable and computationally affordable size.
 <br /> 
+<br /> 
 UiS Involvement: Reidar B. Bratvold (Professor), Aojie Hong (Postdoc), and Amine Tadjer (PhD Candidate)
 <br /> 
 [Project Website](http://digires.no/home)
