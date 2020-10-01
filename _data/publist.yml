@@ -4,7 +4,7 @@
   authors: Reidar B Bratvold, J Eric Bickel, Hans Petter Lohn
   link:
     url: https://www.onepetro.org/journal-paper/SPE-110378-PA
-    display:  PRB 102, 115416
+    display:  Link to Full Text
   highlight: 1
   news2:
 
@@ -14,26 +14,26 @@
   authors: A. J. Hong · R. B. Bratvold · G. Nævdal
   link:
     url: https://link.springer.com/article/10.1007/s10596-017-9666-8
-    display:  https://link.springer.com/article/10.1007/s10596-017-9666-8
+    display:  Link to Full Text
   highlight: 1
   news2:
 
 - title: "Value Creation with Multi-Criteria Decision Making in Geosteering Operations"
   image: geo.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
+  description: In this paper, we develop and illustrate a consistent multi-criteria decision-making process adapted to operational geosteering decisions. Using this process, we demonstrate the impact of different criteria, and combinations of criteria, on the resulting well trajectories and well final placements. We present a case study that applies multi-criteria decision-making (MCDM) methodologies to geosteering operations. The proposed method can assist the geosteering teams (GST) in their analysis and evaluation of multiple criteria for making better and more informed decisions
   authors: K. Kullawan, R. B. Bratvold, J.E. Bickel
   link:
     url: https://www.onepetro.org/conference-paper/SPE-169849-MS
     display:  Link to Full Text
   highlight: 1
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: "Value-of-information for model parameter updating through history matching"
+  image: voimodel.png
+  description: In this paper, we illustrate and discuss the use of a consistent, DA-based, VOI analysis framework to assess the VOI in HM contexts. In order to make the VOI framework understandable and accessible to both the reservoir management and DA communities, we provide a “bridge” between the nomenclature and terminology used in VOI calculations and that used in state-of-the-art HM and optimization methods
+  authors: A.J. Hong, R.B. Bratvold, P. Thomas, R.G. Hanea
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0920410518300998
+    display: Link to Full Text
   highlight: 1
   news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
