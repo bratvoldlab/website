@@ -1,12 +1,21 @@
 ---
-title: "Allan Lab - Research"
+title: "Decision & Data Analytics - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Decision & Data Analytics at University of Stavanger -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
+
+
+## Decision-Driven Big Data and Analytics for the Digital Subsurface (DigiRes)
+
+The project aims to develop the next-generation digital workflows for sub-surface field development and reservoir management to improve decision making and uncertainty analysis for well-planning and field development by using a decision-driven ensemble-based approach. The Decision & Data Analytics group at UiS focus on developing probabilistic decision models that will work well with an ensemble representation of the information, also when using ensembles of reasonable and computationally affordable size.
+UiS Involvement: Reidar B. Bratvold (Professor), Aojie Hong (Postdoc), and Amine Tadjer (PhD Candidate)
+Project Website: http://digires.no/home
+![]({{ site.url }}{{ site.baseurl }}/images/respic/digireslogo.png){: style="width: 300px; float: right; border: 10px"}
+
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
