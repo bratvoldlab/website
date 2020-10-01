@@ -62,7 +62,7 @@ First advertisement.
 ## ETHZ
 From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/reidar_award.jpg" width="100%">
 </figure>
 
 <p float="left">
@@ -70,6 +70,7 @@ From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" /> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" />
 </p>
+
 
 ## Cornell
 From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
