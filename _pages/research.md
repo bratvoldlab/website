@@ -18,20 +18,16 @@ UiS Involvement: Reidar B. Bratvold (Professor), Aojie Hong (Postdoc), and Amine
 <br /> 
 [Project Website](http://digires.no/home)
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/digireslogo.png){: style="width: 300px; float: right; border: 10px"}
+<br /> 
+## Geosteering for Improved Oil Recovery
+The primary objective of this project is to develop methodology for geosteering by continuously updating geomodel based on LWD measurements. The Decision & Data Analytics group at UiS contributes to developing a transparent, systematic and consistent workflow for quantifying complex geological uncertainties in a geomodel and considering them for making high-quality geosteering decisions.
+UiS Involvement: Reidar B. Bratvold (Professor), Muzammil Hussain Rammay (Postdoc), and Aojie Hong (Postdoc)
+Project Website: https://geosteering.no
+Collaborators:
+<br /> 
+## Debiasing Oil Production Forecasts
+Oil production forecasts are usually biased mainly because of overconfidence and optimism. The goal of the project is to debias oil production forecasts for improving decision quality. To achieve this goal, reference class forecasting approaches are used, which take an “outside view” by looking at past outcomes under similar situations. Real forecast data from oil companies is investigated.
+UiS Involvement: Reidar B. Bratvold (Professor), Erik nesvold (Postdoc), and Aojie Hong (Postdoc)
 
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
-
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
-
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
