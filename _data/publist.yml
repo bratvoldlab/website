@@ -10,9 +10,7 @@
 
 - title: "Robust production optimization with capacitance-resistance model as precursor"
   image: 5spot.png
-  description: Many model-based techniques for optimizing hydrocarbon production, especially robust optimization (RO), carry prohibitive computational cost. Ensemble-based
-optimization (EnOpt) is a promising RO method but is computationally intensive when based on rich grid-based
-reservoir models with hundreds of realizations. We present a proxy-model workflow where a grid-based model is supplemented by a useful yet tractable proxy model
+  description: Many model-based techniques for optimizing hydrocarbon production, especially robust optimization (RO), carry prohibitive computational cost. Ensemble-based optimization (EnOpt) is a promising RO method but is computationally intensive when based on rich grid-based reservoir models with hundreds of realizations. We present a proxy-model workflow where a grid-based model is supplemented by a useful yet tractable proxy model
   authors: A. J. Hong · R. B. Bratvold · G. Nævdal
   link:
     url: https://link.springer.com/article/10.1007/s10596-017-9666-8
