@@ -32,6 +32,7 @@ The primary objective of this project is to develop methodology for geosteering 
 Oil production forecasts are usually biased mainly because of overconfidence and optimism. The goal of the project is to debias oil production forecasts for improving decision quality. To achieve this goal, reference class forecasting approaches are used, which take an “outside view” by looking at past outcomes under similar situations. Real forecast data from oil companies is investigated.
 <br /> 
 <br /> 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/opt_logi.png){: style="width: 500px; float: right; border: 10px"}
 **UiS Involvement**: Reidar B. Bratvold (Professor), Erik nesvold (Postdoc), and Aojie Hong (Postdoc)
 <br /> 
 ## What is the Optimal Time to Invest in New Technology?
