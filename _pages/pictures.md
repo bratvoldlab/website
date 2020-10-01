@@ -66,9 +66,9 @@ From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 </figure>
 
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="10" />
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="10" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="10" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="20%" />
 </p>
 
 ## Cornell
