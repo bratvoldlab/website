@@ -65,6 +65,12 @@ From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="60%">
 </figure>
 
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="10" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="10" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/geo_logo.jpg" width="10" />
+</p>
+
 ## Cornell
 From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 <figure>
