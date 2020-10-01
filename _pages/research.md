@@ -38,5 +38,5 @@ Oil production forecasts are usually biased mainly because of overconfidence and
 The objective of this project is to study how the uncertainty of the benefits of a technology can affect decisions related to the adoption of the technology and the information-gathering process that supports the decision on the investment. More specifically, the study requires the formulation of a dynamic programming model where, in each period, the consumer adopts or rejects a new technology or waits and gathers additional information about the benefits of a technology by observing a signal/proof of the technology’s benefit.
 <br /> 
 <br /> 
-**UiS Involvement**: Reidar B. Bratvold (Professor), Remus Henea (Professor),Peyman Kor(Phd Student)
+**UiS Involvement**: Reidar B. Bratvold (Professor), Remus Henea (Professor), Peyman Kor (Phd Student)
 
