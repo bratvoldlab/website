@@ -1,5 +1,5 @@
 - title: "Value of Information in the Oil and Gas Industry: Past, Present, and Future"
-  image: TBG_ARPES.png
+  image: voi.png
   description: An important task that petroleum engineers and geoscientists undertake is to produce decision-relevant information. Some of the most important decisions we make concern what type and what quality of information to produce. When decisions are fraught with geologic and market uncertainties, this information gathering may such forms as seismic surveys, core and well test analyses, reservoir simulations, market analyses, and price forecasts--which the industry spends billions of US dollars each year. Yet, considerably less time and resources are expended on assessing the profitability or value of this information. Why is that?.
   authors: Reidar B Bratvold, J Eric Bickel, Hans Petter Lohn
   link:
@@ -8,13 +8,15 @@
   highlight: 1
   news2:
 
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Robust production optimization with capacitance-resistance model as precursor"
+  image: 5spot.png
+  description:Many model-based techniques for optimizing hydrocarbon production, especially robust optimization (RO), carry prohibitive computational cost. Ensemble-based
+optimization (EnOpt) is a promising RO method but is computationally intensive when based on rich grid-based
+reservoir models with hundreds of realizations. We present a proxy-model workflow where a grid-based model is supplemented by a useful yet tractable proxy model
+  authors: A. J. Hong · R. B. Bratvold · G. Nævdal
   link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766
+    url: https://link.springer.com/article/10.1007/s10596-017-9666-8
+    display:  https://link.springer.com/article/10.1007/s10596-017-9666-8
   highlight: 1
   news2:
 
