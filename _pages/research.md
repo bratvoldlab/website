@@ -26,6 +26,7 @@ The primary objective of this project is to develop methodology for geosteering 
 **UiS Involvement**: Reidar B. Bratvold (Professor), Muzammil Hussain Rammay (Postdoc), and Aojie Hong (Postdoc)
 Project Website: https://geosteering.no
 Collaborators:
+![]({{ site.url }}{{ site.baseurl }}/images/respic/geo_logo.jpg){: style="width: 300px; float: right; border: 10px"}
 <br /> 
 ## Debiasing Oil Production Forecasts
 Oil production forecasts are usually biased mainly because of overconfidence and optimism. The goal of the project is to debias oil production forecasts for improving decision quality. To achieve this goal, reference class forecasting approaches are used, which take an “outside view” by looking at past outcomes under similar situations. Real forecast data from oil companies is investigated.
