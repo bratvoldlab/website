@@ -12,7 +12,7 @@ permalink: /pictures/
 ## University of Stavanger
 
 #### [University of Stavanger](https://www.uis.no/?lang=en_GB#Studies):
-<iframe width="560" height="315" src="https://www.youtube.com/embed?v=CYeD3f00XAE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYeD3f00XAE" frameborder="0" allowfullscreen></iframe>
 
 ## Gallery
 
