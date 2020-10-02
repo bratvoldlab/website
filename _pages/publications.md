@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Decision & Data Analytics - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Decision & Data Analytics at University of Stavanger -- Publications."
 sitemap: false
 permalink: /publications/
 ---
