@@ -19,7 +19,7 @@ At the moment, there is NO vacancy in the group.
 It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here](https://euraxess.ec.europa.eu/jobs/524368).
 
 
-### Master projects for Leiden University students
+### Master projects for University of Stavanger Students
 If you are a Master student at University of Stavanger looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 ### Bsc / Master students from elsewhere
