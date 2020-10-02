@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Value can only be created through our decisions. Uncertainty is inseparable from all significant decisions. You can’t make good decisions without embracing uncertainty. We are a dynamic research group at the [Energy Resource Department](https://www.uis.no/faculty-of-science-and-technology/energy-resources/). We are undertaking interdisciplinary research in Decision Anlaysis, Applied Machine Learning, Economic Valuation and  Behavioral Issues in Decision Making Process.
+Value can only be created through our decisions. Uncertainty is inseparable from all significant decisions. You can’t make good decisions without embracing uncertainty. We are a dynamic research group at the [Energy Resource Department](https://www.uis.no/faculty-of-science-and-technology/energy-resources/) of [University of Stavanger](https://www.uis.no/?lang=en_GB#Studies). We are undertaking interdisciplinary research in Decision Anlaysis, Applied Machine Learning, Economic Valuation and  Behavioral Issues in Decision Making Process.
 Our ability to deal with uncertainty in a consistent and unbiased manner can be measured through the quality of our forecasts.
 
 
