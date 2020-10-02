@@ -16,7 +16,6 @@ permalink: /pictures/
 
 ## Gallery
 
-
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/reidar_award.jpg" width="100%">
 </figure>
