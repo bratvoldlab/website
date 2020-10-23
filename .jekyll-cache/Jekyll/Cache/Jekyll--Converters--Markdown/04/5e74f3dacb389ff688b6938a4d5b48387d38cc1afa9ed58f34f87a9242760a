@@ -1,0 +1,79 @@
+I"<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list see <a href="#full-list">below</a> or go to <a href="https://scholar.google.no/citations?user=xysmgX4AAAAJ&amp;hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Reidar_Bratvold">ResearcherID</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Value of Information in the Oil and Gas Industry: Past, Present, and Future</pubtit>
+      <p><img src="http://localhost:4000/website/images/pubpic/voi_150.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>An important task that petroleum engineers and geoscientists undertake is to produce decision-relevant information. Some of the most important decisions we make concern what type and what quality of information to produce. When decisions are fraught with geologic and market uncertainties, this information gathering may such forms as seismic surveys, core and well test analyses, reservoir simulations, market analyses, and price forecasts–which the industry spends billions of US dollars each year. Yet, considerably less time and resources are expended on assessing the profitability or value of this information. Why is that?.</p>
+      <p><em>Reidar B Bratvold, J Eric Bickel, Hans Petter Lohn</em></p>
+      <p><strong><a href="https://www.onepetro.org/journal-paper/SPE-110378-PA">Link to Full Text</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Robust production optimization with capacitance-resistance model as precursor</pubtit>
+      <p><img src="http://localhost:4000/website/images/pubpic/5spot.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Many model-based techniques for optimizing hydrocarbon production, especially robust optimization (RO), carry prohibitive computational cost. Ensemble-based optimization (EnOpt) is a promising RO method but is computationally intensive when based on rich grid-based reservoir models with hundreds of realizations. We present a proxy-model workflow where a grid-based model is supplemented by a useful yet tractable proxy model</p>
+      <p><em>A. J. Hong · R. B. Bratvold · G. Nævdal</em></p>
+      <p><strong><a href="https://link.springer.com/article/10.1007/s10596-017-9666-8">Link to Full Text</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Value Creation with Multi-Criteria Decision Making in Geosteering Operations</pubtit>
+      <p><img src="http://localhost:4000/website/images/pubpic/geo.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>In this paper, we develop and illustrate a consistent multi-criteria decision-making process adapted to operational geosteering decisions. Using this process, we demonstrate the impact of different criteria, and combinations of criteria, on the resulting well trajectories and well final placements. We present a case study that applies multi-criteria decision-making (MCDM) methodologies to geosteering operations. The proposed method can assist the geosteering teams (GST) in their analysis and evaluation of multiple criteria for making better and more informed decisions</p>
+      <p><em>K. Kullawan, R. B. Bratvold, J.E. Bickel</em></p>
+      <p><strong><a href="https://www.onepetro.org/conference-paper/SPE-169849-MS">Link to Full Text</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Value-of-information for model parameter updating through history matching</pubtit>
+      <p><img src="http://localhost:4000/website/images/pubpic/voimodel.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>In this paper, we illustrate and discuss the use of a consistent, DA-based, VOI analysis framework to assess the VOI in HM contexts. In order to make the VOI framework understandable and accessible to both the reservoir management and DA communities, we provide a “bridge” between the nomenclature and terminology used in VOI calculations and that used in state-of-the-art HM and optimization methods</p>
+      <p><em>A.J. Hong, R.B. Bratvold, P. Thomas, R.G. Hanea</em></p>
+      <p><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0920410518300998">Link to Full Text</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.</p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>Value of Information in the Oil and Gas Industry: Past, Present, and Future <br />
+  <em>Reidar B Bratvold, J Eric Bickel, Hans Petter Lohn </em><br /><a href="https://www.onepetro.org/journal-paper/SPE-110378-PA">Link to Full Text</a></p>
+
+<p>Robust production optimization with capacitance-resistance model as precursor <br />
+  <em>A. J. Hong · R. B. Bratvold · G. Nævdal </em><br /><a href="https://link.springer.com/article/10.1007/s10596-017-9666-8">Link to Full Text</a></p>
+
+<p>Value Creation with Multi-Criteria Decision Making in Geosteering Operations <br />
+  <em>K. Kullawan, R. B. Bratvold, J.E. Bickel </em><br /><a href="https://www.onepetro.org/conference-paper/SPE-169849-MS">Link to Full Text</a></p>
+
+<p>Value-of-information for model parameter updating through history matching <br />
+  <em>A.J. Hong, R.B. Bratvold, P. Thomas, R.G. Hanea </em><br /><a href="https://www.sciencedirect.com/science/article/abs/pii/S0920410518300998">Link to Full Text</a></p>
+
+:ET

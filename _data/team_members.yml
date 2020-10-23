@@ -1,6 +1,6 @@
 - name: Reidar B. Bratvold
   photo: reidar_2.jpg
-  info: Professor
+  info: Professor, <a href="https://www.linkedin.com/in/reidar-bratvold-a657a12/">Linkedin Profile</a>
   email: reidar.bratvold@uis.no
   number_educ: 3
   education1: MBA, Business and Management Science Education, INSEAD, France
@@ -68,7 +68,7 @@
 
 - name: Peyman Kor
   photo: peyman.jpg
-  info: PhD student, started ... 2020
+  info: PhD student, <a href="https://peymankor.netlify.app/files/CV.pdf">CV</a>
   email: kor.peyman@gmail.com
   number_educ: 2
   education1: Visting student of MAthematical Modeling and Computation, DTU
@@ -78,7 +78,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://bratvoldlab.github.io/website/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 0
   education1:
   education2:

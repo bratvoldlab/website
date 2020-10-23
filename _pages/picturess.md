@@ -2,7 +2,7 @@
 title: "Decision & Data Analytics - Pictures"
 layout: piclay
 excerpt: "Decision & Data Analytics at University of Stavanger -- Pictures"
-permalink: /pictures/
+permalink: /picturess/
 ---
 
 # Pictures
@@ -16,13 +16,10 @@ permalink: /pictures/
 
 ## Gallery
 
-### Reidar Bratvold receiving the SPE Management and Information Award - 2017.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/reidar_award.jpg" width="100%">
 </figure>
 
-
-### Aojie Hong presenting his research at IOR NORWAY- 2018
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/aojie_image.jpg" width="100%">
 </figure>
