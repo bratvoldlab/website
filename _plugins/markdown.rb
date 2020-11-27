@@ -21,3 +21,5 @@ module Jekyll
   end
 end
 Liquid::Template.register_tag('markdown', Jekyll::MarkdownTag)
+
+{% plugin_type twitter_url *options %}
