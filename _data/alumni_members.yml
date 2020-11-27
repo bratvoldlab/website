@@ -1,42 +1,28 @@
 - name: Babak Jafarizadeh
   photo: babak.jpg
-  info: PhD student
-  duration: Finished PhD Degree in 2017, NOW, Assistant Professor, Heiot Watt University- <a href="https://www.linkedin.com/in/babak-jafarizadeh-8337644b/">Learn More</a>
-  email: B.Jafarizadeh@hw.ac.uk
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
+  role: Finished PhD Degree in 2011
+  dissertation: Least Squares Monte Carlo Simulation method applied to real options analysis for the E&P projects
+  currentposition: <a href="https://www.linkedin.com/in/babak-jafarizadeh-8337644b/">Assistant Professor, Heiot Watt University</a> 
+  
   
 
 - name: Philip Thomas
   photo: philip.jpg
-  info: PhD student
-  duration: Finished PhD Degree in 2017, NOW, Co-Founder at Bonza- <a href="https://www.linkedin.com/in/philipthom/">Learn More</a>
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
+  role: Finished PhD Degree in 2017
+  dissertation:  Calibration Methods and Learning Models for Real Options Valuation in Oil and Gas 
+  currentposition: <a href="https://www.linkedin.com/in/philipthom/">Co-Founder at Bonza</a>
+ 
 
 - name: Kanokwan Kullawan
   photo: kanokwan.jpg
-  info: PhD Student
-  duration: Finished PhD Degree in 2016, NOW, Economic and Decision Analysit at Chevron- <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Learn More</a>
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  role: Finished PhD Degree in 2016
+  dissertation:  Bayesian Framework for Real-Time Optimization of Well Placement 
+  currentposition: <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Economic and Decision Analyst at Chevron</a>
+
 
 - name: Mohamad Ali Rajaie
   photo: mohamad.jpg
-  info: PhD Student
-  email: M.Leeuwenhoek@tudelft.nl
-  duration: Finished PhD Degree in 2011, NOW, Principal Analyst at Equinor- <a href="https://www.linkedin.com/in/mohamad-ali-rajaie-2b459510a/">Learn More</a>
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
+  role: Finished PhD Degree in 2013
+  dissertation:  Decision-Analytic Framework for Well Construction- Application of Decision Diagrams
+  currentposition: <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Principal Analyst Service Management at Equinor</a>
+  
