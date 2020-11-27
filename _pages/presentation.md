@@ -5,7 +5,9 @@ excerpt: "Decision & Data Analytics at University of Stavanger -- Presentation"
 permalink: /presentation/
 ---
 
-# Video Presentation
+Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+
+# Faculty
 
 
 
