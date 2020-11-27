@@ -15,6 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/website"
 url: "https://bratvoldlab.github.io"
 
+
 include:
   - .htaccess
   - _pages
@@ -43,3 +44,5 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+plugins: 
+  - jekyll-gist
