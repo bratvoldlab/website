@@ -6,9 +6,14 @@ sitemap: false
 permalink: /
 ---
 
-Value can only be created through our decisions. Uncertainty is inseparable from all significant decisions. You can’t make good decisions without embracing uncertainty. We are a dynamic research group at the [Energy Resource Department](https://www.uis.no/faculty-of-science-and-technology/energy-resources/) of [University of Stavanger](https://www.uis.no/?lang=en_GB#Studies). We are undertaking interdisciplinary research in Decision Anlaysis, Applied Machine Learning, Economic Valuation and  Behavioral Issues in Decision Making Process.
-Our ability to deal with uncertainty in a consistent and unbiased manner can be measured through the quality of our forecasts.
 
+Value can only be created through our decisions. Uncertainty is inseparable from all significant decisions. You can’t make good decisions without embracing uncertainty. We are a dynamic research group at the [Energy Resource Department](https://www.uis.no/faculty-of-science-and-technology/energy-resources/) of [University of Stavanger](https://www.uis.no/?lang=en_GB#Studies). We are undertaking interdisciplinary research in Decision Anlaysis, Applied Machine Learning, Economic Valuation and  Behavioral Issues in Decision Making process.
+
+<!-- Our ability to deal with uncertainty in a consistent and unbiased manner can be measured through the quality of our forecasts.-->
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/mgd.jpg" width="100%">
+</figure>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -65,7 +70,7 @@ We are located at [University of Stavanger](www.uis.no), in addition have a role
 
 We are grateful for funding from University of Stavanger, [IOR Center](https://www.uis.no/research/national-ior-centre-of-norway/), [Faculty of Science and Technology](https://www.uis.no/faculty-of-science-and-technology/) and our industrial partner [Equinor](https://www.equinor.com/en.html).
 
-# Affiliation:
+**Relevant Websites**:
 
 + [Society of Decison Professional (SDP)](https://www.decisionprofessionals.com/)
 + [Decision Analysis Society, subdivision of INFORMS](https://connect.informs.org/das/home)
