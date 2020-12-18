@@ -13,19 +13,19 @@ permalink: /teaching/
 
 ## M.Sc Degree Courses
 
-###  [Modeling for Decision Insight -  MOD500_1](https://www.uis.no/course/?code=MOD500_1&path=en)
+###  [Modeling for Decision Insight -  MOD500_1](https://www.uis.no/en/course/MOD500_1)
 
 Credits (ECTS): 10
 
 Semester: Autumn
 
-###  [Economics and Decision Analysis for Engineers- PET685_1](https://www.uis.no/course/?code=PET685_1&path=en)
+###  [Economics and Decision Analysis for Engineers- PET685_1](https://www.uis.no/en/course/PET685_1)
 
 Credits (ECTS): 10
 
 Semester: Autumn
 
-###  [Geostatistical Modeling MOD550_1](https://www.uis.no/course/?code=MOD550_1&path=en)
+###  [Geostatistical Modeling MOD550_1](https://www.uis.no/en/course/MOD550_1)
 
 Credits (ECTS): 10
 
