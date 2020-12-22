@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-Value can only be created through our decisions. Uncertainty is inseparable from all significant decisions. You can’t make good decisions without embracing uncertainty. We are a dynamic research group at the [Energy Resource Department](https://www.uis.no/faculty-of-science-and-technology/energy-resources/) of [University of Stavanger](https://www.uis.no/?lang=en_GB#Studies). We are undertaking interdisciplinary research in Decision Anlaysis, Applied Machine Learning, Economic Valuation and  Behavioral Issues in Decision Making process.
+Value can only be created through our decisions. Uncertainty is inseparable from all significant decisions. You can’t make good decisions without embracing uncertainty. We are a dynamic research group at the [Energy Resource Department](https://www.uis.no/faculty-of-science-and-technology/energy-resources/) of the [University of Stavanger](https://www.uis.no/?lang=en_GB#Studies). We are undertaking interdisciplinary research in Decision Analysis, Applied Machine Learning, Economic Valuation and  Behavioral Issues in Decision Making Process.
 
 <!-- Our ability to deal with uncertainty in a consistent and unbiased manner can be measured through the quality of our forecasts.-->
 
@@ -68,7 +68,7 @@ We are a part of the Department of Energy Resources at the [University of Stavan
  <!---**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 --->
 
-We are grateful for funding from University of Stavanger, [IOR Center](https://www.uis.no/research/national-ior-centre-of-norway/), [Faculty of Science and Technology](https://www.uis.no/faculty-of-science-and-technology/) and our industrial partner [Equinor](https://www.equinor.com/en.html).
+We are grateful for funding from the University of Stavanger, [IOR Center](https://www.uis.no/research/national-ior-centre-of-norway/), [Faculty of Science and Technology](https://www.uis.no/faculty-of-science-and-technology/) and our industrial partner [Equinor](https://www.equinor.com/en.html).
 
 **Relevant Websites**:
 
