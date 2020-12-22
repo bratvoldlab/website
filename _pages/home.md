@@ -63,7 +63,7 @@ To this end, the research topics are included:
 + **E**conomic Evaluation of investment decisions at the project/asset and portfolio levels%
 -->
 
-We are located at [University of Stavanger](www.uis.no), in addition have a role in developing and expnading the new brand progroram [Computational Engineering](https://www.uis.no/studies/master-s-programmes-in-english/science-and-technology/computational-engineering/) at the Energy Resource Department. We exchange ideas and work with our colleguages from [NORCE Research Center](https://www.norceresearch.no/en/), as well as with the colleagues from [Hildebrand Department of Petroleum and Geosystem](https://www.pge.utexas.edu/) at University of Texas at Austin.
+We are a part of the Department of Energy Resources at the [University of Stavanger](www.uis.no) and contribute to teaching and research in Computational Engineering and Geoscience and Reservoir Engineering. Past and current collaboration partners include [NORCE Research Center](https://www.norceresearch.no/en/), Equinor, the Research Council of Norway, the University of Adelaide and the [University of Texas at Austin](https://www.pge.utexas.edu/).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
