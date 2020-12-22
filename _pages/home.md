@@ -65,8 +65,8 @@ To this end, the research topics are included:
 
 We are a part of the Department of Energy Resources at the [University of Stavanger](www.uis.no) and contribute to teaching and research in Computational Engineering and Geoscience and Reservoir Engineering. Past and current collaboration partners include [NORCE Research Center](https://www.norceresearch.no/en/), Equinor, the Research Council of Norway, the University of Adelaide and the [University of Texas at Austin](https://www.pge.utexas.edu/).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+ <!---**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+--->
 
 We are grateful for funding from University of Stavanger, [IOR Center](https://www.uis.no/research/national-ior-centre-of-norway/), [Faculty of Science and Technology](https://www.uis.no/faculty-of-science-and-technology/) and our industrial partner [Equinor](https://www.equinor.com/en.html).
 
