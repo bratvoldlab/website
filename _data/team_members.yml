@@ -37,7 +37,7 @@
   email: rouholah.ahmadi@gmail.com
   number_educ: 2
   education1: PhD in Petroleum Engineering, Amirkabir University of Technology, Iran
-  education2: MSc in Petroleum EWngineering, Sharif University of Technology, Iran
+  education2: MSc in Petroleum Engineering, Sharif University of Technology, Iran
   education3:
 
 - name: Erik Nesvold
@@ -62,16 +62,16 @@
   info: PhD student, started October 2019
   email: andre.l.morosov@uis.no
   number_educ: 2
-  education1: M.sc in Resevoir Engineering
-  education2: B.Sc in Petroleum Engineering
+  education1: M.sc in Reservoir Engineering, University of Campinas, Brazil
+  education2: B.Sc in Electrical Engineering, Federal University of Santa Catarina, Brazil
 
 - name: Peyman Kor
   photo: peyman.jpg
   info: PhD student, <a href="https://peymankor.netlify.app/files/CV.pdf">CV</a>
   email: kor.peyman@gmail.com
   number_educ: 2
-  education1: Visting student of Mathematical Modeling and Computation, DTU
-  education2: M.Sc in Reservoir Engineering, UiS
+  education1: MSc in Mathematical Modeling and Computation - coursework, Technical University of Denmark, Denmark
+  education2: MSc in Reservoir Engineering, University of Stavanger, Norway
 
 
 - name: "This could be you !"
