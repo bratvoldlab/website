@@ -33,10 +33,10 @@ Value can only be created through our decisions. Uncertainty is inseparable from
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/decandvalue.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/decisionchain.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/decisionchain_withcite.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/framework.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/framework_withcite.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/geosteering.png" alt="Slide 4" />
