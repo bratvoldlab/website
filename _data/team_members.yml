@@ -2,43 +2,42 @@
   photo: reidar_2.jpg
   info: Professor, <a href="https://www.linkedin.com/in/reidar-bratvold-a657a12/">Linkedin Profile</a>
   email: reidar.bratvold@uis.no
-  number_educ: 3
-  education1: MBA, Business and Management Science Education, INSEAD, France
-  education2: PhD in Petroleum Engineering, Stanford, USA
-  education3: Visiting Professor, University of Texas at Austin, USA
+  number_educ: 2
+  education1: PhD in Petroleum Engineering, Stanford, USA
+  education2: MSc in Mathematics, Stanford, USA
 
 - name: Remus G. Hanea
   photo: remus.jpg
   info: Professor
   email: remus.hanea@uis.no
-  number_educ: 3
-  education1: Researcher at TNO Science and Technology, Netherland
-  education2: Ph.D in Applied Mathematics, Technische Universiteit Delft, Netherland
-  education3: M.Sc in Applied Mathematics, University of Bucharest, Rumania 
+  number_educ: 2
+  education1: PhD in Applied Mathematics, Delft University of Technology, Netherland
+  education2: MSc in Applied Mathematics, University of Bucharest, Rumania 
+ 
 
 - name: Aojie J. Hong
   photo: aojie.jpg
-  info: Postdoc, started  2018
+  info: Associate Professor
   email: aojie.hong@uis.no
   number_educ: 2
   education1: PhD in Petroleum Data Analytics, University of Stavanger, Norway
-  education2: M.Sc in Petroleum Geoscience, NTNU, Norway 
+  education2: MSc in Petroleum Geoscience, NTNU, Norway 
 
 - name: Muzammil H Rammay
   photo: muzammil.jpg
   info: Postdoc, started Sep 2020
   email: jmuzammil.h.rammay@uis.no
   number_educ: 2
-  education1: Ph.D in Petroleum Engineering, Heriot-Watt, UK
-  education2: M.Sc in Petroleum Engineering, King Fahd, Suadi Arabia
+  education1: PhD in Petroleum Engineering, Heriot-Watt, UK
+  education2: MSc in Petroleum Engineering, King Fahd, Suadi Arabia
 
 - name: Rouholah Ahmadi 
   photo: rouhollah.jpg
   info: Postdoc, started Oct 2020
   email: rouholah.ahmadi@gmail.com
   number_educ: 2
-  education1: Phd in Petroleum Engineering, Amirkabir University of Technology
-  education2: Master in Petroleum Engineering
+  education1: PhD in Petroleum Engineering, Amirkabir University of Technology, Iran
+  education2: MSc in Petroleum EWngineering, Sharif University of Technology, Iran
   education3:
 
 - name: Erik Nesvold
@@ -46,8 +45,8 @@
   info: Postdoc, started Oct 2020
   email: erik.nesvold@gmail.com
   number_educ: 2
-  education1: Ph.D in Computational Mathematics and Energy Resources Engineering, Stanford
-  education2: M.Sc in Computational Mathematics, NTNU
+  education1: PhD in Computational Mathematics and Energy Resources Engineering, Stanford, USA
+  education2: MSc in Computational Mathematics, NTNU, Norway
 
 
 - name: Mohamed Amine Amazigh Tadjer
@@ -55,8 +54,8 @@
   info: PhD Student, started November 2018
   email: amine.tadjer@uis.no
   number_educ: 2
-  education1: Master in Data Science
-  education2: Master in Reservoir Engineering
+  education1: MSc in Data Science, University of Paris-Saclay, France
+  education2: MSc in Reservoir Engineering, University of Pau and the Adour Region, France
 
 - name: Andre Luis Morosov 
   photo: andre.jpg
