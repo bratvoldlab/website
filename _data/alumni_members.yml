@@ -5,6 +5,19 @@
   currentposition: <a href="https://www.linkedin.com/in/babak-jafarizadeh-8337644b/">Assistant Professor, Heriot-Watt University</a> 
   
   
+- name: Mohamad Ali Rajaie
+  photo: mohamad.jpg
+  role: Finished PhD Degree in 2013
+  dissertation:  Decision-Analytic Framework for Well Construction- Application of Decision Diagrams
+  currentposition: <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Principal Analyst Service Management at Equinor</a>
+  
+  
+ - name: Kanokwan Kullawan
+  photo: kanokwan.jpg
+  role: Finished PhD Degree in 2016
+  dissertation:  Bayesian Framework for Real-Time Optimization of Well Placement 
+  currentposition: <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Economic and Decision Analyst at Chevron</a>
+
 
 - name: Philip Thomas
   photo: philip.jpg
@@ -13,16 +26,6 @@
   currentposition: <a href="https://www.linkedin.com/in/philipthom/">Co-Founder at Bonza</a>
  
 
-- name: Kanokwan Kullawan
-  photo: kanokwan.jpg
-  role: Finished PhD Degree in 2016
-  dissertation:  Bayesian Framework for Real-Time Optimization of Well Placement 
-  currentposition: <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Economic and Decision Analyst at Chevron</a>
 
 
-- name: Mohamad Ali Rajaie
-  photo: mohamad.jpg
-  role: Finished PhD Degree in 2013
-  dissertation:  Decision-Analytic Framework for Well Construction- Application of Decision Diagrams
-  currentposition: <a href="https://www.linkedin.com/in/kanokwan-kullawan/">Principal Analyst Service Management at Equinor</a>
   
